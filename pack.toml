@@ -1,0 +1,13 @@
+name = "bober"
+author = "goger"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "93d69500acca462204f545270c0c27ec4683b3ee8b0c7dfabc7e982ee2fee36f"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
